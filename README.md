@@ -16,4 +16,6 @@ It may crash on some mouseDown events for Titlebar or Tab bar though.
 
 I am working on a dylib that might help with this
 
+There are also random functions in there for things like showing alerts.
 
+The all.js file is a "compiled" file for all the "important" js files in this repo and it will console.log out a description of them on load.
